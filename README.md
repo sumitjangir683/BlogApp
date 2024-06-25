@@ -6,7 +6,8 @@ Frontend: HTML, Tailwind CSS, JavaScript, Vite
 Backend: Appwrite
 Hosting: Vercel
 Libraries: React-hook-form, TinyMCE
-Features
+
+Features:
 User Authentication: Users can sign up and log in using email/password or OTP.
 CRUD Operations: Users can create, update, and delete posts.
 Rich Text Editor: TinyMCE is integrated for a real-time rich text editing experience.
